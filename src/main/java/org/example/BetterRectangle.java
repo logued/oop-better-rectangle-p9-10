@@ -1,5 +1,8 @@
 package org.example;
 
+// Exercise P9.10 - partial solution
+//
+
 import java.awt.Rectangle;
 
 public class BetterRectangle extends Rectangle {
@@ -12,4 +15,7 @@ public class BetterRectangle extends Rectangle {
         return getWidth() * getHeight();
     }
 
+    //TODO
+    // Complete the rest of the exercise by adding methods
+    // and then testing them in main()
 }
